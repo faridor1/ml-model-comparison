@@ -74,4 +74,4 @@ Neural network tuning can take time and may generate local Keras Tuner files, wh
 
 ## Data provenance
 
-Course-provided tabular dataset. See `data/README.md` for expected files and sharing considerations.
+academic institution provided tabular dataset. See `data/README.md` for expected files and sharing considerations.
