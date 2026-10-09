@@ -1,0 +1,10 @@
+# Core dependencies for regression.ipynb
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+keras-tuner
+ipykernel
