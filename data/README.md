@@ -12,4 +12,4 @@ The notebook reads these CSVs using `index_col=0`. Keep the original column name
 
 **Source:** Supplied as part of coursework; original publisher and license not verified.
 
-If you have permission to redistribute the data, include the three CSVs here. Otherwise, keep this README and provide a legitimate access route for authorized users. Do not upload confidential or restricted course materials.
+data provided by academic institution. 
